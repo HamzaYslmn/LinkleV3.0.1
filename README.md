@@ -1,5 +1,9 @@
 # LinkleV3.0.1
 For Yuzu 
+
+https://github.com/HamzaYslmn/LinkleV3.0.1/releases/tag/V3.0.1
+
+
 ![thumbnail](https://github.com/HamzaYslmn/LinkleV3.0.1/assets/78810304/929bce7f-a5eb-4c32-b137-0696b601ffe2)
 
 
