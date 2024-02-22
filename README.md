@@ -1,3 +1,4 @@
+
 # LinkleV3.0.1
 For Yuzu [Download 3.0.1 Mod Zip](https://github.com/HamzaYslmn/LinkleV3.0.1/releases/tag/V3.0.1)
 
@@ -13,7 +14,7 @@ may not work with other romfs mods. It doesn't work with PS4 UI for me.
 Just throw it over there
 
 
-linkle yuzu
-linkle switch
-linkle 3
-linkle V3
+-linkle yuzu
+-linkle switch
+-linkle 3
+-linkle V3
