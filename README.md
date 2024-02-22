@@ -4,3 +4,7 @@ For Yuzu
 
 
 may not work with other romfs mods. It doesn't work with PS4 UI for me. 
+
+
+<img width="755" alt="image" src="https://github.com/HamzaYslmn/LinkleV3.0.1/assets/78810304/cd5f6cb1-a7b2-44ee-b122-1971cb39dda4">
+Just throw it over there
