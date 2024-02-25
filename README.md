@@ -18,3 +18,5 @@ Just throw it over there
 -linkle switch
 -linkle 3
 -linkle V3
+
+info.json path = 01007EF00011E000 folder path
